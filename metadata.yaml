@@ -1,0 +1,28 @@
+_repo: L-Impeccable-Th-ophile-Gautier-et-les-sacril-ges-romantiques_41578
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41578-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nicolardot, Louis
+    birthdate: 1822
+    deathdate: 1888
+    gutenberg_agent_id: '41244'
+    url: http://www.gutenberg.org/2009/agents/41244
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2012-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41578'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Romanticism -- France'
+- !lcsh 'Gautier, Théophile, 1811-1872'
+title: L'Impeccable Théophile Gautier et les sacrilèges romantiques
+url: http://www.gutenberg.org/ebooks/41578
